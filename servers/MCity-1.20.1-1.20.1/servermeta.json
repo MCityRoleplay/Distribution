@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "version": "1.0.1",
+    "name": "MCity",
+    "description": "MCity Forge 1.20.1",
+    "icon": "",
+    "address": "MCityDev.exaroton.me",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
