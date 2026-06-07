@@ -1,0 +1,8 @@
+cache/
+meta/
+schemas/
+servers/
+modpacks/
+
+node_modules/
+.DS_Store
