@@ -498,6 +498,16 @@
           }
         },
         {
+          "id": "net.raphimc:immediatelyfast:1.5.4+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 538992,
+            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+            "MD5": "8fb21bb328cc322c6d9749eff087509f"
+          }
+        },
+        {
           "id": "crimson_twilight.immersive_cooking:immersive_cooking:2.0.1@jar",
           "name": "Immersive Cooking",
           "type": "ForgeMod",
@@ -568,6 +578,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:modelfix:1.15@jar",
+          "name": "Model Gap Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45246,
+            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/modelfix-1.15.jar",
+            "MD5": "9afd060094be1353e818bd2b7c249cc9"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.27.40+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -585,26 +605,6 @@
             "size": 85240261,
             "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/MTR-forge-4.0.4+1.20.1.jar",
             "MD5": "b1adf3bcf9351e7b20178ef0a264811c"
-          }
-        },
-        {
-          "id": "mtsofficialpack:mtsofficialpack:29@jar",
-          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 74229141,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/MTS%20Official%20Pack-1.20.1-V29.jar",
-            "MD5": "f0c6905d0aa35f41b48e9d521e8c6391"
-          }
-        },
-        {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2851119,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
@@ -628,53 +628,13 @@
           }
         },
         {
-          "id": "com.imgar:ivgarage:1.0.0@jar",
-          "name": "Example Mod",
+          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.4+mc1.20.1-build.131@jar",
+          "name": "Embeddium Extra",
           "type": "ForgeMod",
           "artifact": {
-            "size": 43929,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/SharpzsGarageSystem1.1.0.jar",
-            "MD5": "a18d67f0ff3ea3bb4a62b2915dd19e20"
-          }
-        },
-        {
-          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
-          "name": "Sodium Dynamic Lights",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 511601,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-            "MD5": "687c18cefa558ca8101ef97914d9ba6b"
-          }
-        },
-        {
-          "id": "toni.sodiumextras:sodiumextras:1.0.6@jar",
-          "name": "Sodium Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 438540,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/sodiumextras-forge-1.0.7-1.20.1.jar",
-            "MD5": "823adea3bcfd64dbdbaec46950cf4108"
-          }
-        },
-        {
-          "id": "toni.sodiumoptionsapi:sodiumoptionsapi:1.0.10@jar",
-          "name": "Sodium Options API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 443978,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
-            "MD5": "75807590ae2648ecdeb855705868ce59"
-          }
-        },
-        {
-          "id": "toni.sodiumoptionsmodcompat:sodiumoptionsmodcompat:1.0.0@jar",
-          "name": "Sodium Options Mod Compat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 181056,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar",
-            "MD5": "b4ba44d85f2714e818cc8534f46c8914"
+            "size": 568608,
+            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+            "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
           }
         },
         {
@@ -725,6 +685,16 @@
             "size": 691995,
             "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/taczmagazines-1.20.1-0.1.4-Beta.jar",
             "MD5": "866cc21186688681b13d43f4d8bd3177"
+          }
+        },
+        {
+          "id": "mtsofficialpack:mtsofficialpack:29@jar",
+          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 79197569,
+            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/Veicoli.jar",
+            "MD5": "2edc68c0d9b06a7b58dd45943975a2c8"
           }
         },
         {
