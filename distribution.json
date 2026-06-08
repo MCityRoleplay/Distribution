@@ -11,7 +11,7 @@
       "id": "MCity-1.20.1-1.20.1",
       "name": "MCity",
       "description": "MCity Forge 1.20.1",
-      "icon": null,
+      "icon": "https://mcityroleplay.github.io/Distribution/logo.png",
       "version": "1.0.1",
       "address": "MCityDev.exaroton.me",
       "minecraftVersion": "1.20.1",
@@ -708,13 +708,13 @@
           }
         },
         {
-          "id": "generated.forgemod:ronmc:0.3.1@jar",
+          "id": "generated.forgemod:ronmc:0.3.2@jar",
           "name": "Ready or Not TaCZ Pack",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11612915,
-            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/WaT%200.3.1.jar",
-            "MD5": "12c5ef92279fe35d7710bc34a6656c3d"
+            "size": 11711774,
+            "url": "https://mcityroleplay.github.io/Distribution/servers/MCity-1.20.1-1.20.1/forgemods/required/WaT%200.3.2.jar",
+            "MD5": "82a225cad0f46be7de973ccc75635025"
           }
         },
         {
